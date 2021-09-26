@@ -24,4 +24,4 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
 # 
 # m h  dom mon dow   command
 
-*/10 * * * * XDG_RUNTIME_DIR=/run/user/$(id -u) notify-send "Ajeite sua postura agora" -i ~/scripts/notificacoes/postura.png
+*/10 * * * * XDG_RUNTIME_DIR=/run/user/$(id -u) notify-send "Ajeite sua postura agora" -i ~/Imagens/icons/postura.png
